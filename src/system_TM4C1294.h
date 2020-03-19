@@ -1,3 +1,9 @@
+/*******************************************************************************************************
+* Equipe: S11_G06
+* Integrantes: Graciele Lopes de Souza
+*              Matheus Taborda Carneiro
+*******************************************************************************************************/
+
 /*****************************************************************************
  * @file     system_TM4C1294.h (based on system_TM4C129.h)
  * @brief    CMSIS Cortex-M4 Device Peripheral Access Layer Header File for
